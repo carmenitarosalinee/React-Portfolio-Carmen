@@ -14,10 +14,23 @@ import "aos/dist/aos.css"; // You can also use <link> for styles
 // ..
 AOS.init();
 
+// createRoot(document.getElementById("root")).render(
+//   <StrictMode>
+//     <PreLoader />
+//     <div className="container mx-auto px-4">
+//       <Navbar />
+//       <App />
+//       <Footer />
+//     </div>
+//   </StrictMode>
+// );
+
+// tess
+
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <PreLoader />
-    <div className="container mx-auto px-4">
+    <div className="overflow-x-hidden">
       <Navbar />
       <App />
       <Footer />

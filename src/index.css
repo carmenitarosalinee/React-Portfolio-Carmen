@@ -1,7 +1,30 @@
-@import "tailwindcss";
+/* @import "tailwindcss";
 
 @layer base{
     body{
         font-family: "Poppins", sans-serif;
     }
+} */
+
+/* TESS */
+
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+    width: 100%;
+  }
+
+  html {
+    overflow-x: hidden;
+  }
+
+  /* Pastikan elemen fullscreen tidak melebihi lebar viewport */
+  .w-screen,
+  .h-screen {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
 }
