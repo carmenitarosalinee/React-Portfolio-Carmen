@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       {/* ================= GLOBAL WRAPPER ================= */}
-      <div className="px-4 sm:px-8 md:px-16 lg:px-24 xl:px-32">
+      <div className="px-4 sm:px-8 md:px-16 lg:px-24 xl:px-32 overflow-x-hidden">
         {/* ================= HERO SECTION ================= */}
         <div
           className="hero grid md:grid-cols-2 items-center justify-between 
