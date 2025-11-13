@@ -259,6 +259,22 @@ export const skillCategories = [
 export const listExperience = [
   {
     id: 1,
+    title: "Self-Employed",
+    position: "Data Analyst/Machine Learning/AI Engineer",
+    date: "May 2025 - Now",
+    organization: "Data Driven AI-Freelance Services",
+    highlights: [
+      "Provided AI and data-related consultation for individuals and small businesses.",
+      "Helped clients understand technical concepts such as model selection, data preparation, and problem framing.",
+      "Researched and explored AI/ML solutions that can be applied to real business problems.",
+      "Created early-stage prototypes and proof-of-concept models for demonstration purposes.",
+    ],
+    instagram:
+      "https://www.instagram.com/datadriven.ai_?utm_source=ig_web_button_share_sheet&igsh=bnVyMHBkeGdsOGln",
+  },
+
+  {
+    id: 2,
     title: "Bangkit Academy 2024",
     position: "Machine Learning Cohort",
     date: "Sep 2024 - Dec 2024",
@@ -275,7 +291,7 @@ export const listExperience = [
       "https://www.linkedin.com/in/carmenita-lamba-6a7555220/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADecNp8BBS42YvhOUeyssoTu0_Rft4r6ayo%2C2469652243%29&trackingId=4NlzQS%2BCR9O2nljE4OZV6A%3D%3D&desktopBackground=MAIN_PROFILE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bnsu1AWJVQF%2B3H7594VoqOA%3D%3D",
   },
   {
-    id: 2,
+    id: 3,
     title: "Sam Ratulangi University",
     position: "Lecture Assistant in Database Practicum",
     date: "Jan 2024 - Jul 2024",
@@ -288,7 +304,7 @@ export const listExperience = [
       "https://www.linkedin.com/in/carmenita-lamba-6a7555220/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADecNp8BBS42YvhOUeyssoTu0_Rft4r6ayo%2C2475490164%29&trackingId=m4J0TDixSL2BtnY7HzbifA%3D%3D&desktopBackground=MAIN_PROFILE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqJhlnj8xR%2BO%2BPaFrgRCrjA%3D%3D",
   },
   {
-    id: 3,
+    id: 4,
     title: "PT Metrocom Global Solusi",
     position: "Front-End Dev Intern",
     date: "Oct 2023 - Dec 2023",
@@ -301,20 +317,5 @@ export const listExperience = [
       "https://drive.google.com/file/d/1PRI44-A7xiiFnR1mqiiq5TWS49yn1WmU/view?usp=sharing",
     linkedin:
       "https://www.linkedin.com/in/carmenita-lamba-6a7555220/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADecNp8BBS42YvhOUeyssoTu0_Rft4r6ayo%2C2278772325%29&trackingId=t8p1E6s%2FStKrDXjIWJNdTA%3D%3D&desktopBackground=MAIN_PROFILE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqJhlnj8xR%2BO%2BPaFrgRCrjA%3D%3D",
-  },
-  {
-    id: 4,
-    title: "Self-Employed",
-    position: "Data Analyst/Machine Learning/AI Engineer",
-    date: "May 2025 - Now",
-    organization: "Data Driven AI-Freelance Services",
-    highlights: [
-      "Provided AI and data-related consultation for individuals and small businesses.",
-      "Helped clients understand technical concepts such as model selection, data preparation, and problem framing.",
-      "Researched and explored AI/ML solutions that can be applied to real business problems.",
-      "Created early-stage prototypes and proof-of-concept models for demonstration purposes.",
-    ],
-    instagram:
-      "https://www.instagram.com/datadriven.ai_?utm_source=ig_web_button_share_sheet&igsh=bnVyMHBkeGdsOGln",
   },
 ];
