@@ -21,12 +21,16 @@ function App() {
                 loading="lazy"
               />
               <q className="text-gray-300 italic">
-                Clean code. Clear insights. Meaningful impact.🧠
+                Optimizing life, one model at a time.
               </q>
             </div>
 
-            <h1 className="text-5xl font-bold mb-6 leading-tight">
+            <h1 className="text-5xl font-bold leading-tight">
               Carmenita Lamba
+            </h1>
+
+            <h1 className="text-1xl font-semibold mb-6 leading-tight">
+              Machine Learning/AI Engineer | Data Enthusiast
             </h1>
 
             <p className="text-base leading-relaxed mb-6 text-gray-400">
